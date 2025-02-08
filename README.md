@@ -1,8 +1,7 @@
-## Demo Video
+# Depression Prediction Project
 
-Watch the demo video below:
+## Screenshot of the Project
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/KoushikiAgarwal/Depression-Prediction-2/raw/main/"C:\Users\HP\Videos\Screen Recordings\predictorD.mp4"/predictorD.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Project Screenshot](Screenshot%202025-02-07%20205445.png)  <!-- Replace with your actual file path -->
+
+
